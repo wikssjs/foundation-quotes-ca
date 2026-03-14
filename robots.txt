@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /get-waterproofing-quote/
+Crawl-delay: 1
+
+Sitemap: https://foundation-quotes.ca/sitemap-index.xml
