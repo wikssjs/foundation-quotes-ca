@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: https://renoquotes.com/en/form/service/foundation-complete?slug=home&utm_campaign=jb#p-0
+Disallow: /get-waterproofing-quote/
 Crawl-delay: 1
 
 Sitemap: https://foundation-quotes.ca/sitemap-index.xml
